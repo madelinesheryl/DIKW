@@ -32,11 +32,11 @@ Dari data tersebut, kita dapat melihat beberapa informasi penting:
 Dari informasi di atas, pengetahuan yang bisa ditindaklanjuti adalah:  
 
 1. **Promo & cashback adalah kunci.**  
-   Banyak pengguna tidak loyal pada satu e-wallet, melainkan memilih yang paling banyak memberi promo.  
-
+   Banyak pengguna tidak loyal pada satu e-wallet, melainkan memilih yang paling banyak memberi promo.
+   
 2. **Integrasi ekosistem penting.**  
-   E-wallet yang kuat dalam ekosistem tertentu (misalnya ShopeePay di Shopee) akan lebih dominan di lingkup tersebut.  
-
+   E-wallet yang kuat dalam ekosistem tertentu (misalnya ShopeePay di Shopee) akan lebih dominan di lingkup tersebut.
+   
 3. **Edukasi & kebiasaan digital.**  
    Masyarakat mulai terbiasa dengan transaksi non-tunai, khususnya anak muda & pekerja urban.  
 
@@ -46,10 +46,11 @@ Dari informasi di atas, pengetahuan yang bisa ditindaklanjuti adalah:
 Berdasarkan data, informasi, dan pengetahuan, strategi bijak yang bisa dilakukan oleh penyedia e-wallet adalah:  
 
 ### 🔑 Strategi Utama
-- [ ] **Memperkuat loyalitas pengguna** melalui *membership* atau *reward points*, bukan hanya cashback.  
-- [ ] **Memperluas ekosistem** (integrasi dengan transportasi, e-commerce, hingga pembayaran offline di merchant kecil).  
+- [ ] **Memperkuat loyalitas pengguna** melalui *membership* atau *reward points*, bukan hanya cashback ataupun diskon satu kali.  
+- [ ] **Memperluas ekosistem** (integrasi dengan transportasi, e-commerce, hingga pembayaran offline di merchant kecil, UMKM—agar menjadi lebih praktis dan menarik).  
 - [ ] **Mengedukasi pengguna baru** di luar kota besar untuk memperluas adopsi e-wallet.  
-- [ ] **Menjaga keamanan transaksi** agar kepercayaan pengguna semakin tinggi.  
+- [ ] **Menjaga keamanan transaksi** agar kepercayaan pengguna semakin tinggi.
+- [ ] **Inovasi pada pengalaman pengguna** dalam kemudahan top-up, keamanan, dan fitur add-on seperti QRIS NFC.
 
 ---
 
